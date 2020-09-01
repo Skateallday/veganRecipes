@@ -9,7 +9,11 @@
     justify-content: center;
     margin-top: 16px;
   }
-
+  .card-container a{
+    color:#000;
+    font-size:15px;
+    text-decoration: none;
+  }
   .card {
     border-radius: 4px;
     border: 1px solid #eee;
